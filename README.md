@@ -1,5 +1,5 @@
 
-# My first visual novel app clone
+# 📖 My first visual novel app clone
 
 This is my first visual novel app clone.
 
